@@ -6,7 +6,7 @@ Python Program to generate HTML Table from Google Sheets Database
 ## Solution:
 
 ##  How to install & Use<br>
-`git clone https://github.com/MateoWartelle/gsDB-to-HTML.git`<br>
+`git clone https://github.com/MateoWartelle/GoogleSheetsDB-to-HTML.git`<br>
 `cd gsDB-to-HTML`<br>
 `Edit 'YOUR SPREEDSHEET ID' in color_data_extraction function`<br>
 `Set the proper range in main (ie 'A1:E5')`<br>
