@@ -4,6 +4,10 @@ Python Program to generate HTML Table from Google Sheets Database
 ## Project Overview:
 
 ## Solution:
+A constant update stream from Google Sheets API displayed in a HTML Table. 
+
+## Example:
+![Screenshot](Example.png)
 
 ##  How to install & Use<br>
 `git clone https://github.com/MateoWartelle/GoogleSheetsDB-to-HTML.git`<br>
